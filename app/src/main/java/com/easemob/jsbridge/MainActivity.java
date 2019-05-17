@@ -1,7 +1,10 @@
 package com.easemob.jsbridge;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.easemob.test.R;
 
 public class MainActivity extends AppCompatActivity {
 
